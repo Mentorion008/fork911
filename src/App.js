@@ -4,7 +4,7 @@ import Footer from './components/Footer';
 import './App.css';
 
 function App() {
-  const info = "drilling";
+  const info = "drilling mon ami";
 
   return (
     <div className="App">
